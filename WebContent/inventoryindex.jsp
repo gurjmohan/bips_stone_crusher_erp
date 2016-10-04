@@ -8,7 +8,7 @@
 </head>
 <body>
 <h2>Welcome to Inventory Management System.</h2>
-<form action="InventoryTestServlet">
+<form action="testServlet">
 	<input type="SUBMIT" value="Send" />
 </form>
 </body>
